@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Normal-205
 - 👀 I’m interested in Back-end developer
-- 🌱 I’m currently learning C++, PHP
+- 🌱 I’m currently learning PHP, NodeJS
 - 💞️ I’m looking to collaborate on some small project
 - 📫 Connect ưith me: https://www.facebook.com/normal2052002/
